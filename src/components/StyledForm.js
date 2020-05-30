@@ -13,7 +13,8 @@ const StyledForm = styled.form`
         font-size: 1.1rem;
     }
     & output {
-        background-color: rgba(0, 0, 0, 0.2);
+        margin-top: 3px;
+        background-color: rgba(0, 0, 0, 0.3);
         color: white;
     }
 `
